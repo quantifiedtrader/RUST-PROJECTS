@@ -1,6 +1,0 @@
-[package]
-name = "Beginner_1_hello_world_cli"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
