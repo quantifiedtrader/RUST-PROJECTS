@@ -8,7 +8,7 @@ These projects are designed to introduce you to fundamental programming concepts
 - [x]  Simple Calculator
 - [x] To-Do List CLI
 - [x] Guess the Number Game
-- [ ] Word Counter
+- [x] Word Counter
 - [ ] Simple Timer
 - [ ] Fibonacci Sequence Generator
 - [ ] Prime Number Checker
