@@ -9,8 +9,8 @@ These projects are designed to introduce you to fundamental programming concepts
 - [x] To-Do List CLI
 - [x] Guess the Number Game
 - [x] Word Counter
-- [ ] Simple Timer
-- [ ] Fibonacci Sequence Generator
+- [x] Simple Timer
+- [x] Fibonacci Sequence Generator
 - [ ] Prime Number Checker
 - [ ] Basic HTTP Server
 - [ ] Random Password Generator
